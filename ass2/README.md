@@ -1,8 +1,2 @@
-gridworld
-=========
-
-A tkinter-based gridworld implementation.
-
-Original version written by Elliot Colp.
-
-Modified and extended by Claude Sammut and Francsico Cruz.
+## Reward-based learning agents
+[Reward-based learning agents.pdf](https://github.com/user-attachments/files/23480151/Reward-based.learning.agents.pdf)
