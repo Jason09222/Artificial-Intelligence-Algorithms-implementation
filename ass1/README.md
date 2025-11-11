@@ -1,3 +1,14 @@
+## Depth First Search and Iterative Deepening Depth First Search
+This assignment requires developing Depth First Search (DFS) an d Iterative Deepening Depth First Search (IDDFS) for the gridworld problem. Download the Assign1_gridworld.zip file. It has two newly added files: dfs.py and DFSAgen t.py. Your task is complete these two files to implement both DFS and IDDFS players.
+
+
+To run the gridworld, you need to enter the following command on CSE Linux workstation or server:
+
+> python3 main.py
+This requires Python3, matplotlib and tkinter .
+It opens the gridworld window. You can choose type of your player from the menu.<o:p></o:p>
+
+
 ### Question1 (5 marks)
 
 The dfs.py file contains a function called find_path . This functions takes six arguments:
